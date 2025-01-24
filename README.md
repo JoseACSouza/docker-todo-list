@@ -1,10 +1,3 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+"Neste projeto irei: 1. **_Conteinerizar_** aplicações; 2. Criar uma conexão entre elas; 3. Orquestrar seu funcionamento. Temos [uma aplicação full-stack](docker/todo-app) neste repositório: um **aplicativo de tarefas**! Esta aplicação precisa ser conteinerizada para funcionar. Para isso desenvolverei os arquivos de configuração para cada frente específica: `Front-end`, `Back-end` e, no nosso caso, para um aplicativo de `teste` que valida se as aplicações estão se comunicando. Assim eu tive de criar as imagens para as aplicações e configurar essas imagens com o `docker-compose`. Para isto, você irá utilizar uma série de comandos do `docker` com diferentes níveis de complexidade.Cada comando deverá ser escrito em seu próprio arquivo." \
+stacks: ["Docker"] \
+instructions: "Para testar em sua máquina, clone o repositório e use os comandos npm install, docker-compose up"
